@@ -1,6 +1,6 @@
 [
   {
-    "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/Our-Pitch-to-You/data/mainview-slides.json",
+    "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/data/mainview-slides.json",
     "icon": "fa-file-lines",
     "text": "Our Pitch to You",
     "description": "Meet people where they are",
@@ -24,11 +24,11 @@
     "youTubeId": "",
     "videoFile": "",
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-09-28T00:32:54.5166574Z",
+    "updatedDateTime": "2026-09-28T01:12:55.0968416Z",
     "siteLinks": []
   },
   {
-    "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/The-Gospel-According-to-Matthew/data/mainview-slides.json",
+    "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/data/mainview-slides.json",
     "icon": "fa-file-lines",
     "text": "Intro to Matthew",
     "description": "Berean Standard Bible (BSB)",
@@ -52,11 +52,11 @@
     "youTubeId": "",
     "videoFile": "",
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-09-28T00:32:54.5166574Z",
+    "updatedDateTime": "2026-09-28T01:12:55.0968416Z",
     "siteLinks": []
   },
   {
-    "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/Matthew-9/data/mainview-slides.json",
+    "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/data/mainview-slides.json",
     "icon": "fa-file-lines",
     "text": "Matthew 9",
     "description": "Berean Standard Bible (BSB)",
@@ -80,11 +80,11 @@
     "youTubeId": "",
     "videoFile": "",
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-09-28T00:32:54.5166574Z",
+    "updatedDateTime": "2026-09-28T01:12:55.0968416Z",
     "siteLinks": []
   },
   {
-    "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/Genesis-1/data/mainview-slides.json",
+    "href": "{HrefBase}/{HrefOwner}/{HrefRepo}/{HrefBranch}/data/mainview-slides.json",
     "icon": "article",
     "text": "Genesis-1",
     "description": "Berean Standard Bible (BSB)",
@@ -108,7 +108,7 @@
     "youTubeId": "",
     "videoFile": "",
     "createdDateTime": "2026-09-23T13:06:54.0721477Z",
-    "updatedDateTime": "2026-09-28T00:32:54.5166574Z",
+    "updatedDateTime": "2026-09-28T01:12:55.0968416Z",
     "siteLinks": []
   }
 ]
